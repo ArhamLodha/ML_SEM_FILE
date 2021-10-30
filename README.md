@@ -1,6 +1,6 @@
 # ML_SEM_FILE
 
-# 1. Assignments
+# 1. Documentation WriteUp
 
 a) Python exercises from Hackerrank
 
@@ -25,7 +25,7 @@ j) KNN code from scratch
 k) Naive Bayes code from scratch
 
 
-# 2. Class Notebooks and Practicals -
+# 2. Class Material -
 
 0 Python Basics
 
